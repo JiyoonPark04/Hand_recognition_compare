@@ -1,0 +1,5 @@
+﻿  main_colordetection.cpp
+C:\Project\Project_opencv - 복사본\main_colordetection.cpp(132,116): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Project\Project_opencv - 복사본\main_colordetection.cpp(133,117): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Project\Project_opencv - 복사본\main_colordetection.cpp(134,113): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project_opencv.vcxproj -> C:\Project\Project_opencv - 복사본\x64\Debug\Project_opencv.exe

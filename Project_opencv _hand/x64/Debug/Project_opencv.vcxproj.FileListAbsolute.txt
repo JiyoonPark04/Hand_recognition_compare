@@ -1,0 +1,2 @@
+C:\Project\Project_opencv\x64\Debug\Project_opencv.exe
+C:\Project\Project_opencv - 복사본\x64\Debug\Project_opencv.exe
